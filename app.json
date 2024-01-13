@@ -50,7 +50,7 @@
       },
       "STRING_SESSION": {
          "description": "Fill with telethon string session get it form @Iro_string_bot .",
-         "required": true,
+         "required": false,
          "value": "" 
       },
       "HEROKU_API_KEY": {
