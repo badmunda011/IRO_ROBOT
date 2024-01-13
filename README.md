@@ -23,6 +23,8 @@
 <a href="https://github.com/IR-O/IRO_ROBOT/commits/IR-O"> <img src="https://img.shields.io/github/last-commit/IR-O/IRO_ROBOT?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
+### heroku
+[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/badmunda011/IRO_ROBOT)
 
 ### ᴄᴀɴ ʙᴇ ꜰᴏᴜɴᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ [ɪꝛᴏ](https://t.me/Iro_m_bot).
 
